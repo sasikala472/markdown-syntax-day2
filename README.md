@@ -66,3 +66,5 @@ printf("hello world");
 [gmail](https://mail.google.com)
 # inserting images 
 ![image](https://github.com/sasikala472/markdown-syntax-day2/blob/master/img.jpg)
+# insert vedio
+[![kid](https://img.youtube.com/vi/6qBTWBd7TGM/0.jpg)](https://www.youtube.com/watch?v=6qBTWBd7TGM)
