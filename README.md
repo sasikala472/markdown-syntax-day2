@@ -46,3 +46,11 @@ def fun():
 `
 fun()
 `
+# task
+`
+#include<stdio.h>
+void main()
+{
+printf("hello world");
+}
+`
