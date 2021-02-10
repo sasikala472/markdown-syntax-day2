@@ -37,11 +37,12 @@
     + eeeA
     + eeeB
 # code of function definition
-`
+```
 def fun():
    
    print("welcome to github")
-
+```
 # function calling
+`
 fun()
 `
