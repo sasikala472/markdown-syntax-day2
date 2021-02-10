@@ -64,3 +64,5 @@ printf("hello world");
 # task
 # gamil
 [gmail](https://mail.google.com)
+# inserting images 
+![image](https://github.com/sasikala472/markdown-syntax-day2/blob/master/img.jpg)
