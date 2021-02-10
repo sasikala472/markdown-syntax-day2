@@ -49,8 +49,14 @@ fun()
 # task
 `
 #include<stdio.h>
+
 void main()
+
 {
+
 printf("hello world");
+
 }
 `
+# links
+[google] (ail/&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1#)
