@@ -62,5 +62,5 @@ printf("hello world");
 # links
 [google](https://github.com/sowjanya46765/basic-linux-commnds/tree-save/main/README.m)
 # task
-# kits
+# gamil
 [gmail](https://mail.google.com)
