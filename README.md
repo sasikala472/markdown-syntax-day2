@@ -30,9 +30,9 @@
 4.civil
 # unordered list
 - ece
-   _ eceA
-   _ eceB
+   - eceA
+    - eceB
    
-_ eee
-    +eeeA
-    +eeeB
+- eee
+    + eeeA
+    + eeeB
